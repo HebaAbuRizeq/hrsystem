@@ -65,18 +65,12 @@ th, td {
 
           <table id="example" class="table table-bordered table-responsive table-striped">
               <tbody>
-
               <tr><td>{{trans('administration.Name')}}</td><td>{{trans('cpanel.vtc')}}</td> </tr>
-              <tr><td>{{trans('directorate.Directorate')}}</td><td>{{trans('cpanel.ITC')}}</td></tr>
-              <tr><td>{{trans('department.Department')}}</td><td>{{trans('cpanel.Egov')}}</td></tr>
               <tr><td>{{trans('cpanel.Designdevelopment')}}</td><td>{{trans('cpanel.ProgrammerName')}}</td></tr>
-              <tr><td>{{trans('cpanel.Phone')}}</td><td> 065858481/113</td></tr>
-
               <tr><td>{{trans('cpanel.Mobile')}}</td><td>0797113425</td></tr>
-              <tr><td>{{trans('cpanel.Email')}}</td><td>haburizeq@vtc.gov.jo</td></tr>
+              <tr><td>{{trans('cpanel.Email')}}</td><td>hebalike@yahoo.com</td></tr>
               </tbody>
             </table>
-
         </div>
         <!-- /x_content -->
 
