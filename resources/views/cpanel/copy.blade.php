@@ -117,10 +117,7 @@ th, td {
           <table id="example" class="table table-bordered table-responsive table-striped">
               <tbody>
                 <tr><td>{{trans('cpanel.Programmer')}}</td><td>{{trans('cpanel.ProgrammerName')}}</td></tr>
-                <tr><td>{{trans('cpanel.Translator')}}</td><td>{{trans('cpanel.TranslatorName')}} </td></tr>
-                <tr><td>{{trans('cpanel.Fevaluation')}}</td><td>{{trans('cpanel.RawanShahin')}}</td></tr>
-                <tr><td>{{trans('cpanel.ACdata')}}</td><td>{{trans('cpanel.Fadiaalsahouri')}} </td></tr>
-                <tr><td>{{trans('cpanel.Generalsupervision')}}</td><td>{{trans('cpanel.MahmoudKarameh')}}</td></tr>
+            
               </tbody>
             </table>
 
